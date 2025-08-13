@@ -1,1 +1,1 @@
-worker: python sponso2.py
+worker: python main.py
